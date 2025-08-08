@@ -24,16 +24,29 @@ Hajcoin a website designed for entrepenours aiming to make money online. It's de
 ![Wireframe no1](IMG_5318.jpg)
 ![Wireframe no2](IMG_5317.jpg)
 
+These are the basic wireframe designs, showing the main functions of the site and how it will operate 
 
 # H1 Alternate Design:
 Home page for the design
-![Home Page](haj1.png)
+
+![](haj1.png)
+
+The home page will have a scrolling feed, where users can scroll to see popular posts and posts they wish to invest in. On the side there is a friends leaderboard, which compells users to invest to move higher on the leaderboard. 
 
 Analytics Page
-![Analytics Page](haj2.png)
+
+![](haj2.png)
+
+This will track all investments and show your Haj over time. 
 
 Buy Hajcoin Page
-![Haj Buy Page](haj3.png)
+
+![](haj3.png)
+
+This is where users can buy hajcoin to invest overtime. The price will vary based on the market price for Hajcoin
 
 Create Post UI
-![Create Post UI](haj4.png)
+
+![](haj4.png)
+
+This is where users can create a post, that people can invest in. People will make money off the posts that they make. 
