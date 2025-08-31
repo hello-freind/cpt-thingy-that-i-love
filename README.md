@@ -92,6 +92,16 @@ Prerequirements:
 
 
 
+31/8/25 6:03 pm
+
+AGHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+
+well tbh I've hardly done anything on this silly little project xd
+ill *hopefully* be able to get a white screen if i lock in tonight ;-;
+
+-# no promises tho
+
+
 
 
 
