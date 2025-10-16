@@ -94,41 +94,79 @@ Prerequirements:
 
 31/8/25 6:03 pm
 
-AGHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
+Struggling to set up the flask server. For some reason, python keeps bugging out, and it's unable to open even a blank page, let alone all the buttons that we need :C
 
-well tbh I've hardly done anything on this silly little project xd
-ill *hopefully* be able to get a white screen if i lock in tonight ;-;
+Unfortantely, this means that we're behind, but when in a CPT project when are we not ;)
 
--# no promises tho
+4/9/25 11:30 am
 
+Setting up of the flask server complete, we were able to get it to load a blank page with nothing on it! Wow! And now after all that I have ZERO motivation to actually style this nonsense.
 
+8/9/25 4:11pm
 
+Now, I should probably be doing way more logging. But I've been doing nothing :D. Like... all we've got is a grey screen, but it's got some links... that... wait for it... GO BETWEEN PAGES. Just give me an A at this point lmao. 
 
+18/9/25 9:43pm
 
+Wow, it's obvious with my very *detailed* dairy notes, that I've done plenty of work. Over the past week, we've completed:
 
+- Got light blue text and buttons on the home page that switch between different things
+- A somewhat decent homepage, which has buttons and a button to go to a sign in page (doesn't exist yet..., just redirects you to a 404). We've also got a feed page, which also doesn't exist outside of a grey screen and a white bar on top. 
+- Not much else. 
 
+24/9/25 2:14pm
 
+Here's what we've got before the school holidays. If I'm being completely honest, I'm not gonna work on this until like Sunday or Monday of the last day ;-;. Not that working on it before will change anythign. 
 
+Other than that yap here's what we got:
 
+- We've got a working home page, which directs you to a sign up page. But like, it doesn't work... that's a later problem. 
+- The feed page is meant to display posts, but it doesn't? Idrk how to fix it, but again, it's a later problem. 
+- The sign in page works, but only to the preset accounts that's already in the database xd. But maybe our site can be a super duper exclusive site, that only the first 1000 people have access too. It doesn't actually like *stay* signed in either ;-;
 
+11/15/25 (i'm doing this later so i don't have the exact time)
 
+By this point, through work on the last 3-4 days on the holidays. 
 
+I have:
+- Posts show up (WOW!) and you can LIKE THEM (BIG WOW!)
+- Posts do show up from the sql database, they're not hard coded :)
+- Some posts have cool text, but otherwise it's just random words from that latin text thingy that's on all the demo sites. And the titles are just random "Buzzwords" that Mockaroo generated. 
+- Homepage and sign in page work as intended. There are some features that were like supposed to be implemented on the bottom, that just kinda do nothing? Oh well I suppose idc. 
 
+So other than that? I've got nothign. 
 
+I'm also just realising I should've added like... images. But I'm failing so whatever. 
 
+The website did not meet all the functional criteria, only the first one and like a third of the second one? 
 
+However, the website did meeet all of the non-functional criteria, not that that's a big hurdle. 
 
+Test Case 001: is successful! The user can login given they've got a registered account with a valid username or passoword. 
 
+However Test Case 002 is unsuccessful, as the thing doesn't send an email or prompt the user to change the password. Oh well ig. 
 
+And we're done! I'm free. 
 
+Ignore the 60000 extra lines, they don't do anything. 
 
+# Instructions to run the thing
 
+Download files into VSCode, open the files and find the folder "Flask_PWA_Program..." 
 
+Right click and select "Open in intergrated terminal" 
 
+Type in "Python main.py"
+Open link that the flask server spits out. Voila!
 
+Here's an account, but you can also just create one:
 
+User: aborgne7
+Password: pC6"/W/L
 
 
+## Acknowledgement
+ChatGPT helped implement some features, mostly issues with SQL stuff and the like button, and fixing some annoying visuals on the homepage. 
 
 
 
@@ -86002,3 +86040,8 @@ ill *hopefully* be able to get a white screen if i lock in tonight ;-;
 
 
 
+
+
+
+
+:3
